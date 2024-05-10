@@ -38,7 +38,7 @@ Make sure you have NodeJS installed on your device.
 Clone the repository using:
 
 ```
-gh repo clone Soumya-Kushwaha/SoundScape
+git clone https://github.com/1Shubham7/Wife-Predictor-v2
 ```
 ### Step 3
 In your local directory of the project, install the node dependencies using:
